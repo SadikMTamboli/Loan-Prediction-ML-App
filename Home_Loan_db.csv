@@ -1,0 +1,46 @@
+Gender,Marital status,Education,Applicant income,Loan Amount,Loan amount term,Property,Self_Employed,Credit history
+Male,Unmarried,Graduate,5584,1548,26,Urban,Yes,Unclear Debts
+Male,Unmarried,Graduate,5000000,500,589,Urban,Yes,Unclear Debts
+Male,Married,Graduate,5000000,500,589,Urban,Yes,Unclear Debts
+Female,Unmarried,Not Graduate,500,6222,36,Rural,No,Unclear Debts
+Female,Married,Graduate,50000,236,36,Urban,No,No Unclear Debts
+Female,Married,Graduate,59856.0,2563.0,23.0,SemiUrban,Yes,No Unclear Debts
+Male,Unmarried,Graduate,51548.0,556.0,36.0,Urban,Yes,Unclear Debts
+Male,Unmarried,Graduate,36548.0,2546.0,36.0,Urban,Yes,Unclear Debts
+Male,Unmarried,Graduate,25689.0,2688.0,32.0,SemiUrban,Yes,Unclear Debts
+Male,Unmarried,Graduate,25689.0,2688.0,32.0,SemiUrban,Yes,Unclear Debts
+Male,Unmarried,Graduate,25689.0,2688.0,32.0,SemiUrban,Yes,Unclear Debts
+Male,Married,Not Graduate,25689.0,268.0,32.0,SemiUrban,Yes,Unclear Debts
+Male,Married,Not Graduate,25689.0,3259.0,32.0,SemiUrban,Yes,Unclear Debts
+Male,Married,Not Graduate,25689.0,3259.0,32.0,SemiUrban,Yes,Unclear Debts
+Male,Married,Graduate,25462.0,2546.0,32.0,Urban,Yes,Unclear Debts
+Male,Unmarried,Graduate,25645.0,265.0,26.0,SemiUrban,Yes,No Unclear Debts
+Male,Unmarried,Graduate,25645.0,2650.0,26.0,SemiUrban,Yes,No Unclear Debts
+Male,Unmarried,Graduate,25645.0,2650.0,26.0,SemiUrban,Yes,No Unclear Debts
+Male,Unmarried,Graduate,25645.0,2650.0,26.0,SemiUrban,Yes,No Unclear Debts
+Male,Unmarried,Graduate,25645.0,2546.0,26.0,Urban,Yes,Unclear Debts
+Male,Unmarried,Graduate,25645.0,2546814.99,2564.0,Urban,Yes,Unclear Debts
+Female,Unmarried,Graduate,2546.0,2546814.99,2564.0,Urban,Yes,Unclear Debts
+Female,Unmarried,Graduate,2546.0,2564.0,2564.0,Urban,Yes,No Unclear Debts
+Female,Unmarried,Graduate,2546.0,2564.0,2564.0,Rural,No,No Unclear Debts
+Female,Married,Graduate,25.0,254000.0,2564.0,Rural,No,No Unclear Debts
+Female,Married,Graduate,25.0,254000.0,2564.0,Rural,No,No Unclear Debts
+Female,Married,Graduate,25.0,254000.0,2564.0,Rural,No,No Unclear Debts
+Female,Married,Graduate,266659.0,2546.0,2564.0,Rural,No,No Unclear Debts
+Female,Married,Graduate,52000.0,200000.0,24.0,Rural,No,No Unclear Debts
+Female,Married,Graduate,52000.0,200000.0,24.0,Rural,No,No Unclear Debts
+Male,Unmarried,Graduate,25645.0,20000.0,36.0,Urban,Yes,Unclear Debts
+Male,Unmarried,Graduate,25622.0,200000.0,48.0,Urban,Yes,No Unclear Debts
+Male,Unmarried,Graduate,25622.0,200000.0,48.0,Urban,Yes,Unclear Debts
+Female,Unmarried,Not Graduate,25622.0,200000.0,48.0,Urban,Yes,Unclear Debts
+Female,Unmarried,Not Graduate,25622.0,20000.0,48.0,Urban,Yes,Unclear Debts
+Male,Unmarried,Graduate,25654.0,200000.0,58.0,Urban,Yes,Unclear Debts
+Male,Married,Graduate,25468.0,2564.0,365.0,Rural,Yes,Unclear Debts
+Male,Unmarried,Graduate,36542.0,2356.0,65.0,Urban,Yes,Unclear Debts
+Male,Unmarried,Graduate,36542.0,2356.0,65.0,Urban,Yes,Unclear Debts
+Male,Unmarried,Graduate,25000.0,2564.0,36.0,Urban,Yes,Unclear Debts
+Male,Unmarried,Graduate,25625.0,2564.0,36.0,Urban,Yes,Unclear Debts
+Male,Unmarried,Graduate,244.0,235.0,52.0,Urban,Yes,Unclear Debts
+Male,Unmarried,Graduate,44211.0,344.0,42.0,Urban,Yes,Unclear Debts
+Male,Unmarried,Graduate,3452.0,242.0,33.99,Urban,Yes,Unclear Debts
+Male,Unmarried,Graduate,455.0,345.0,345.0,Urban,Yes,Unclear Debts
